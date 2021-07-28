@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  touch-action: manipulation;
+  background: linear-gradient(#101730, #292052);
+  height: 100%;
+  cursor: pointer;
+}
